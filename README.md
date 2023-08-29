@@ -16,3 +16,6 @@ Then connect both web-cam and monitor to Raspberry pi accordingly. You can use t
 Once the set up are done, then simply run the python script *counter.py* (do not forget to install OpenCV v3).
 The script will generate a window by showing the live videos in monitor which includes the texts of *number of people entered, number of people exit, available places*
 This will enable you to observe the results of people counter script. 
+
+You can follow the connected LED lights, where the number of red light means: Number of occupied places in the room
+and number of green light means: Number of available places in the room.
