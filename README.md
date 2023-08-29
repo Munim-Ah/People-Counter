@@ -1,6 +1,6 @@
 # People-Counter
 This single python script will enable you to count inbound and outbound people in real time.
-This script also provides functionality to blink RED and GREEN LED lights based on number of people entered and number of people exited the room.
+This script also provides functionality to blink RED and GREEN LED lights based on number of people entered and number of people left the room.
 in order to use the LED functionality, it is recommended to deploy the script via Raspberry Pi.
 
 So you need the following apparatus:
